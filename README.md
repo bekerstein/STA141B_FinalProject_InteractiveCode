@@ -1,0 +1,1 @@
+This repository is meant to demonstrate the functions of a few features of our STA 141B Final Project. All the csv files must be downloaded to run the ipynub code and please run these ipynub files on a Jupyter Notebook! 
